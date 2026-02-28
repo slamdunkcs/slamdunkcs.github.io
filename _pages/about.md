@@ -96,11 +96,11 @@ His research focuses on interpretable and robust intelligent modeling, including
 # Gallery
 
 ## Photos from Weekly Seminars
-<img src="/images/seminar-1.jpg" width="30%">
-<img src="/images/seminar-2.jpg" width="30%">
-<img src="/images/seminar-3.jpg" width="30%">
+<img src="/images/zhengwang/seminar-1.jpg" width="30%">
+<img src="/images/zhengwang/seminar-2.jpg" width="30%">
+<img src="/images/images/zhengwang/seminar-3.jpg" width="30%">
 
 ## Students at Workshops & Conferences
-<img src="/images/workshop-1.jpg" width="30%">
-<img src="/i:contentReference[oaicite:24]{index=24}g" width="30%">
-<img src="/images/conference-2.jpg" width="30%">
+<img src="/images/zhengwang/workshop-1.jpg" width="30%">
+<img src="/images/zhengwang/workshop-2.jpg" width="30%">
+<img src="/images/zhengwang/workshop-3.jpg" width="30%">
