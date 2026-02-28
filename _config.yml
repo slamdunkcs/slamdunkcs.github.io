@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zheng Wang's Homepage"
 description              : "Students with strong backgrounds in mathematics, programming, and English are highly encouraged to apply."
-repository               : "slamdunkcs/wangzheng.github.io"
+repository               : "https://slamdunkcs.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
