@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zheng Wang"
+title                    : "Zheng Wang's Homepage"
 description              : "Students with strong backgrounds in mathematics, programming, and English are highly encouraged to apply."
-repository               : "wangzheng.github.io"
+repository               : "slamdunkcs/wangzheng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
