@@ -18,13 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-
 Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in Electrical Engineering from Suwon University in 2012, 2016, and 2021, respectively. He was a Postdoctoral Fellow (2021–2023) in the Department of Computer Science at Suwon Universit:contentReference[oaicite:14]{index=14}e Executive Deputy Director of the Shandong Province International Joint Laboratory of Sino-Korean Big Data and Artificial Intelligence at Linyi University, and a Research Professor with the School of ICT at Suwon University. From Mar. 2025 to Feb. 2026, he was a Visiting Scholar with the School of Automation Science and Electrical Engineering at Beihang University.
 
 His research focuses on interpretable and robust intelligent modeling, including fuzzy systems, evolutionary computation, and neural networks, with applications in industrial analytics and low-carbon/environmental scenarios. He has authored 20+ peer-reviewed publications in high-impact IEEE journals and regularly serves as a reviewer for IEEE journals and major machine-learning venues such as ICML.
 
-# Research Interests
+# Contact
+- Email: [wangzheng@suwon.ac.kr](mailto:wangzheng@suwon.ac.kr)
+- Google Scholar: [Profile](https://scholar.google.com/citations?hl=zh-CN&user=UJ34nmQAAAAJ)
+- ORCID: [0000-0003-2160-8608](https://orcid.org/0000-0003-2160-8608)
+- :contentReference[oaicite:26]{index=26}ps://dblp.org/pid/181/2834-57.html)
 
+# Research Interests
 - Fuzzy Systems
 - Evolutionary Computation
 - Neural Networks
@@ -33,24 +37,21 @@ His research focuses on interpretable and robust intelligent modeling, including
 
 
 # Selected Publications
-
 1. Y. Zhu, H. Duan, **Z. Wang***, E.-H. Kim, Z. Fu and W. Pedrycz, "BPFNN: Bayesian Probabilistic Fuzzy Neural Networks for Uncertainty-Aware Clustering and Probabilistic Fuzzy Reasoning," *IEEE Transactions on Cybernetics*, 2026.
 2. Y. Zhu, H. Duan, **Z. Wang***, E.-H. Kim, Z. Fu and W. Pedrycz, "Robust Classification via Interval Type-2 Fuzzy C-Means and Gradient Boosting," *IEEE Transactions on Fuzzy Systems*, 2025.
 3. **Z. Wang**, E.-H. Kim, S.-K. Oh, W. Pedrycz, Z. Fu and J. H. Yoon, "Reinforced Fuzzy-Rule-Based Neural Networks Realized Through Streamlined Feature Selection Strategy and Fuzzy Clustering With Distance Variation," *IEEE Transactions on Fuzzy Systems*, 2024.
 4. E.-H. Kim, **Z. Wang***, H. Zong, Z. Jiang, Z. Fu and W. Pedrycz, "Design of Tobacco Leaves Classifier Through Fuzzy Clustering-Based Neural Networks With Multiple Histogram Analyses of Images," *IEEE Transactions on Industrial Informatics*, 2023.
 5. S.-B. Roh, S.-K. Oh, W. Pedrycz, **Z. Wang***, Z. Fu and K. Seo, "Design of Iterative Fuzzy Radial Basis Function Neural Networks Based on Iterative Weighted Fuzzy C-Means Clustering and Weighted LSE Estimation," *IEEE Transactions on Fuzzy Systems*, 2022.
 
-## Research Projects
-
+# Research Projects
 1. **Research on the Algorithm Design of Type-2 Fuzzy Neural Networks and Their Applications in Low-Carbon Environmental Protection**, Natural Science Foundation of Shandong Province (ZR2025MS18), 2025.10–2028.09.
 2. **Research on a Fuzzy Self-Organizing Dynam:contentReference[oaicite:18]{index=18}ork Architecture**, Natural Science Foundation on Computational Intelligence of Shandong Province (SDCI202406), 2024.06–2027.05.
 3. **Research on Carbon Emission Control in Inter-Company Collaboration Based on Fuzzy Graph Neural Networks**, NRF Korea (NRF-2023K2A9A2A06060385), 2023.08–2025.07.
 4. **Development of an Enhanced Ensemble Multi-Layer Neuro-Fuzzy Architecture...**, NRF Korea (NRF-2022R1I1A1A01071671), 2022.06–2025.05.
 5. **Design of a Deep Fuzzy Neural Network and Multi-Model Structure with Enhanced Dimensionality Reduction**, NRF Korea (NRF-2021R1A2C1095739), 2021.09–2023.02.
 
-## Teaching
-
-### Undergraduate Courses
+# Teaching
+## Undergraduate Courses
 - Intelligent Computing Systems
 - Programmable Logic Controllers (PLC)
 - Python Fundamentals for Big Data
@@ -59,21 +60,20 @@ His research focuses on interpretable and robust intelligent modeling, including
 - Industrial Mathematics
 - Principles and Applications of Big Data Technology
 
-### Master's Courses:contentReference[oaicite:20]{index=20}mputational Intelligence
+## Master's Courses:contentReference[oaicite:20]{index=20}mputational Intelligence
 - Big Data Technologies and Case Studies
 
-### Doctoral Courses
+## Doctoral Courses
 - Image Processing
 - Introduction to Algorithms
 - Advanced Topics in Artificial Intelligence
 
-## Student Supervision
-
-### Undergraduate
+# Student Supervision
+## Undergraduate
 - **2021 intake**
   - Xinjie Zhang (Currently pursuing an M.Sc. degree at City University of Hong Kong)
 
-### Master's Students
+## Master's Students
 - **2025 intake**
   - Xinyi Wang
   - Weimin Hu
@@ -87,19 +87,20 @@ His research focuses on interpretable and robust intelligent modeling, including
   - Yunlong Zhu (Graduated early in 2025; Currently pursuing a Ph.D. at Suwon University)
   - Xiaonan Wu (Graduated early in 2025; Currently at Shandong Investment Co., Ltd.)
 
-### Ph.D. Students
+## Ph.D. Students
 - **2026 intake**
   - Yunlong Zhu
 - **2024 intake**
   - Da Yuan
-## Gallery
 
-### Photos from Weekly Seminars
+# Gallery
+
+## Photos from Weekly Seminars
 <img src="/images/seminar-1.jpg" width="30%">
 <img src="/images/seminar-2.jpg" width="30%">
 <img src="/images/seminar-3.jpg" width="30%">
 
-### Students at Workshops & Conferences
+## Students at Workshops & Conferences
 <img src="/images/workshop-1.jpg" width="30%">
 <img src="/i:contentReference[oaicite:24]{index=24}g" width="30%">
 <img src="/images/conference-2.jpg" width="30%">
