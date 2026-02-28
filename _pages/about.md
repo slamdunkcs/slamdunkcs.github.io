@@ -39,6 +39,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 3. **Z. Wang**, E.-H. Kim\*, S.-K. Oh, W. Pedrycz, Z. Fu and J. H. Yoon, "Reinforced Fuzzy-Rule-Based Neural Networks Realized Through Streamlined Feature Selection Strategy and Fuzzy Clustering With Distance Variation," *IEEE Transactions on Fuzzy Systems*, 2024.
 4. E.-H. Kim, **Z. Wang**\*, H. Zong, Z. Jiang, Z. Fu and W. Pedrycz, "Design of Tobacco Leaves Classifier Through Fuzzy Clustering-Based Neural Networks With Multiple Histogram Analyses of Images," *IEEE Transactions on Industrial Informatics*, 2023.
 5. S.-B. Roh, S.-K. Oh, W. Pedrycz, **Z. Wang**\*, Z. Fu and K. Seo, "Design of Iterative Fuzzy Radial Basis Function Neural Networks Based on Iterative Weighted Fuzzy C-Means Clustering and Weighted LSE Estimation," *IEEE Transactions on Fuzzy Systems*, 2022.
+   
 -\* Corresponding author
 
 # Research Projects
