@@ -26,7 +26,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 - Email: [wangzheng@suwon.ac.kr](mailto:wangzheng@suwon.ac.kr)
 - Google Scholar: [Profile](https://scholar.google.com/citations?hl=zh-CN&user=UJ34nmQAAAAJ)
 - ORCID: [0000-0003-2160-8608](https://orcid.org/0000-0003-2160-8608)
-- - DBLP: [DBLP Profile](https://dblp.org/pid/181/2834-57.html)
+- DBLP: [DBLP Profile](https://dblp.org/pid/181/2834-57.html)
 
 # Research Interests
 - Fuzzy Systems
