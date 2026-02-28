@@ -81,7 +81,7 @@ His research focuses on interpretable and robust intelligent modeling, including
   - Peng Zhou
   - Baiyi Guo
 - **2023 intake**
-- Yizhen Wang
+  - Yizhen Wang
   - Yunlong Zhu (Graduated early in 2025; Currently pursuing a Ph.D. at Suwon University)
   - Xiaonan Wu (Graduated early in 2025; Currently at Shandong Investment Co., Ltd.)
 
