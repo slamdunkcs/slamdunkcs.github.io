@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in Electrical Engineering from Suwon University in 2012, 2016, and 2021, respectively. He was a Postdoctoral Fellow (2021–2023) in the Department of Computer Science at Suwon Universit:contentReference[oaicite:14]{index=14}e Executive Deputy Director of the Shandong Province International Joint Laboratory of Sino-Korean Big Data and Artificial Intelligence at Linyi University, and a Research Professor with the School of ICT at Suwon University. From Mar. 2025 to Feb. 2026, he was a Visiting Scholar with the School of Automation Science and Electrical Engineering at Beihang University.
+Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in Electrical Engineering from Suwon University in 2012, 2016, and 2021, respectively. He was a Postdoctoral Fellow (2021–2023) in the Department of Computer Science at Suwon University. He is now the Executive Deputy Director of the Shandong Province International Joint Laboratory of Sino-Korean Big Data and Artificial Intelligence at Linyi University, and a Research Professor with the School of ICT at Suwon University. From Mar. 2025 to Feb. 2026, he was a Visiting Scholar with the School of Automation Science and Electrical Engineering at Beihang University.
 
 His research focuses on interpretable and robust intelligent modeling, including fuzzy systems, evolutionary computation, and neural networks, with applications in industrial analytics and low-carbon/environmental scenarios. He has authored 20+ peer-reviewed publications in high-impact IEEE journals and regularly serves as a reviewer for IEEE journals and major machine-learning venues such as ICML.
 
@@ -29,12 +29,9 @@ His research focuses on interpretable and robust intelligent modeling, including
 - DBLP: [DBLP Profile](https://dblp.org/pid/181/2834-57.html)
 
 # Research Interests
-- Fuzzy Systems
-- Evolutionary Computation
-- Neural Networks
-- Interpretable Intelligent Modeling
-- Industrial Analytics
-
+- Explainable Artificial Intelligence (XAI)
+- Computer Vision
+- Computational Intelligence
 
 # Selected Publications
 1. Y. Zhu, H. Duan, **Z. Wang***, E.-H. Kim, Z. Fu and W. Pedrycz, "BPFNN: Bayesian Probabilistic Fuzzy Neural Networks for Uncertainty-Aware Clustering and Probabilistic Fuzzy Reasoning," *IEEE Transactions on Cybernetics*, 2026.
@@ -45,7 +42,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 
 # Research Projects
 1. **Research on the Algorithm Design of Type-2 Fuzzy Neural Networks and Their Applications in Low-Carbon Environmental Protection**, Natural Science Foundation of Shandong Province (ZR2025MS18), 2025.10–2028.09.
-2. **Research on a Fuzzy Self-Organizing Dynam:contentReference[oaicite:18]{index=18}ork Architecture**, Natural Science Foundation on Computational Intelligence of Shandong Province (SDCI202406), 2024.06–2027.05.
+2. **Research on a Fuzzy Self-Organizing Dynamically Generated Network Architecture**, Natural Science Foundation on Computational Intelligence of Shandong Province (SDCI202406), 2024.06–2027.05.
 3. **Research on Carbon Emission Control in Inter-Company Collaboration Based on Fuzzy Graph Neural Networks**, NRF Korea (NRF-2023K2A9A2A06060385), 2023.08–2025.07.
 4. **Development of an Enhanced Ensemble Multi-Layer Neuro-Fuzzy Architecture...**, NRF Korea (NRF-2022R1I1A1A01071671), 2022.06–2025.05.
 5. **Design of a Deep Fuzzy Neural Network and Multi-Model Structure with Enhanced Dimensionality Reduction**, NRF Korea (NRF-2021R1A2C1095739), 2021.09–2023.02.
@@ -60,7 +57,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 - Industrial Mathematics
 - Principles and Applications of Big Data Technology
 
-## Master's Courses:contentReference[oaicite:20]{index=20}mputational Intelligence
+## Master's Courses
 - Big Data Technologies and Case Studies
 
 ## Doctoral Courses
@@ -78,12 +75,11 @@ His research focuses on interpretable and robust intelligent modeling, including
   - Xinyi Wang
   - Weimin Hu
   - Ruifeng Zhang
-
 - **2024 intake**
   - Peng Zhou
   - Baiyi Guo
-
-:contentReference[oaicite:22]{index=22} Yizhen Wang
+- **2023 intake**
+- Yizhen Wang
   - Yunlong Zhu (Graduated early in 2025; Currently pursuing a Ph.D. at Suwon University)
   - Xiaonan Wu (Graduated early in 2025; Currently at Shandong Investment Co., Ltd.)
 
