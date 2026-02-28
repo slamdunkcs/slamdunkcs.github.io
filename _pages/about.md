@@ -17,47 +17,89 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in Electrical Engineering from Suwon University in 2012, 2016, and 2021, respectively. He was a Postdoctoral Fellow (2021–2023) in the Department of Computer Science at Suwon University. He is now the Executive Deputy Director of the Shandong Province International Joint Laboratory of Sino-Korean Big Data and Artificial Intelligence at Linyi University, and a Research Professor with the School of ICT at Suwon University. From Mar. 2025 to Feb. 2026, he was a Visiting Scholar with the School of Automation Science and Electrical Engineering at Beihang University.
-His research focuses on interpretable and robust intelligent modeling, including fuzzy systems, evolutionary computation, and neural networks, with applications in industrial analytics and low-carbon/environmental scenarios. He has authored 20+ peer-reviewed publications in high-impact IEEE journals and regularly participates in peer review for a wide range of IEEE outlets, as well as major machine-learning venues such as ICML.
+# About Me
 
-Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=UJ34nmQAAAAJ
-ORCID: https://orcid.org/0000-0003-2160-8608
-DBLP: homepages/181/2834-57
-Email: wangzheng@suwon.ac.kr
+Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in Electrical Engineering from Suwon University in 2012, 2016, and 2021, respectively. He was a Postdoctoral Fellow (2021–2023) in the Department of Computer Science at Suwon Universit:contentReference[oaicite:14]{index=14}e Executive Deputy Director of the Shandong Province International Joint Laboratory of Sino-Korean Big Data and Artificial Intelligence at Linyi University, and a Research Professor with the School of ICT at Suwon University. From Mar. 2025 to Feb. 2026, he was a Visiting Scholar with the School of Automation Science and Electrical Engineering at Beihang University.
+
+His research focuses on interpretable and robust intelligent modeling, including fuzzy systems, evolutionary computation, and neural networks, with applications in industrial analytics and low-carbon/environmental scenarios. He has authored 20+ peer-reviewed publications in high-impact IEEE journals and regularly serves as a reviewer for IEEE journals and major machine-learning venues such as ICML.
+
+# Research Interests
+
+- Fuzzy Systems
+- Evolutionary Computation
+- Neural Networks
+- Interpretable Intelligent Modeling
+- Industrial Analytics
 
 
+# Selected Publications
 
-# 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Submitted a paper to IEEE TMM. 
-- *2026.01*: &nbsp;🎉🎉 Submitted a paper to ICML 2026. 
+1. Y. Zhu, H. Duan, **Z. Wang***, E.-H. Kim, Z. Fu and W. Pedrycz, "BPFNN: Bayesian Probabilistic Fuzzy Neural Networks for Uncertainty-Aware Clustering and Probabilistic Fuzzy Reasoning," *IEEE Transactions on Cybernetics*, 2026.
+2. Y. Zhu, H. Duan, **Z. Wang***, E.-H. Kim, Z. Fu and W. Pedrycz, "Robust Classification via Interval Type-2 Fuzzy C-Means and Gradient Boosting," *IEEE Transactions on Fuzzy Systems*, 2025.
+3. **Z. Wang**, E.-H. Kim, S.-K. Oh, W. Pedrycz, Z. Fu and J. H. Yoon, "Reinforced Fuzzy-Rule-Based Neural Networks Realized Through Streamlined Feature Selection Strategy and Fuzzy Clustering With Distance Variation," *IEEE Transactions on Fuzzy Systems*, 2024.
+4. E.-H. Kim, **Z. Wang***, H. Zong, Z. Jiang, Z. Fu and W. Pedrycz, "Design of Tobacco Leaves Classifier Through Fuzzy Clustering-Based Neural Networks With Multiple Histogram Analyses of Images," *IEEE Transactions on Industrial Informatics*, 2023.
+5. S.-B. Roh, S.-K. Oh, W. Pedrycz, **Z. Wang***, Z. Fu and K. Seo, "Design of Iterative Fuzzy Radial Basis Function Neural Networks Based on Iterative Weighted Fuzzy C-Means Clustering and Weighted LSE Estimation," *IEEE Transactions on Fuzzy Systems*, 2022.
 
-# 📝 Publications 
+## Research Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. **Research on the Algorithm Design of Type-2 Fuzzy Neural Networks and Their Applications in Low-Carbon Environmental Protection**, Natural Science Foundation of Shandong Province (ZR2025MS18), 2025.10–2028.09.
+2. **Research on a Fuzzy Self-Organizing Dynam:contentReference[oaicite:18]{index=18}ork Architecture**, Natural Science Foundation on Computational Intelligence of Shandong Province (SDCI202406), 2024.06–2027.05.
+3. **Research on Carbon Emission Control in Inter-Company Collaboration Based on Fuzzy Graph Neural Networks**, NRF Korea (NRF-2023K2A9A2A06060385), 2023.08–2025.07.
+4. **Development of an Enhanced Ensemble Multi-Layer Neuro-Fuzzy Architecture...**, NRF Korea (NRF-2022R1I1A1A01071671), 2022.06–2025.05.
+5. **Design of a Deep Fuzzy Neural Network and Multi-Model Structure with Enhanced Dimensionality Reduction**, NRF Korea (NRF-2021R1A2C1095739), 2021.09–2023.02.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## Teaching
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### Undergraduate Courses
+- Intelligent Computing Systems
+- Programmable Logic Controllers (PLC)
+- Python Fundamentals for Big Data
+- Data Visualization
+- Linear Algebra
+- Industrial Mathematics
+- Principles and Applications of Big Data Technology
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+### Master's Courses:contentReference[oaicite:20]{index=20}mputational Intelligence
+- Big Data Technologies and Case Studies
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+### Doctoral Courses
+- Image Processing
+- Introduction to Algorithms
+- Advanced Topics in Artificial Intelligence
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Student Supervision
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### Undergraduate
+- **2021 intake**
+  - Xinjie Zhang (Currently pursuing an M.Sc. degree at City University of Hong Kong)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+### Master's Students
+- **2025 intake**
+  - Xinyi Wang
+  - Weimin Hu
+  - Ruifeng Zhang
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **2024 intake**
+  - Peng Zhou
+  - Baiyi Guo
+
+:contentReference[oaicite:22]{index=22} Yizhen Wang
+  - Yunlong Zhu (Graduated early in 2025; Currently pursuing a Ph.D. at Suwon University)
+  - Xiaonan Wu (Graduated early in 2025; Currently at Shandong Investment Co., Ltd.)
+
+### Ph.D. Students
+- **2026 intake**
+  - Yunlong Zhu
+- **2024 intake**
+  - Da Yuan
+## Gallery
+
+### Photos from Weekly Seminars
+<img src="/images/seminar-1.jpg" width="30%">
+<img src="/images/seminar-2.jpg" width="30%">
+<img src="/images/seminar-3.jpg" width="30%">
+
+### Students at Workshops & Conferences
+<img src="/images/workshop-1.jpg" width="30%">
+<img src="/i:contentReference[oaicite:24]{index=24}g" width="30%">
+<img src="/images/conference-2.jpg" width="30%">
