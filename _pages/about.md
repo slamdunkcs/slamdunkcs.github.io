@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in Electrical Engineering from Suwon University in 2012, 2016, and 2021, respectively. He was a Postdoctoral Fellow (2021–2023) in the Department of Computer Science at Suwon University. He is now the Executive Deputy Director of the Shandong Province International Joint Laboratory of Sino-Korean Big Data and Artificial Intelligence at Linyi University, and a Research Professor with the School of ICT at Suwon University. From Mar. 2025 to Feb. 2026, he was a Visiting Scholar with the School of Automation Science and Electrical Engineering at Beihang University.
+His research focuses on interpretable and robust intelligent modeling, including fuzzy systems, evolutionary computation, and neural networks, with applications in industrial analytics and low-carbon/environmental scenarios. He has authored 20+ peer-reviewed publications in high-impact IEEE journals and regularly participates in peer review for a wide range of IEEE outlets, as well as major machine-learning venues such as ICML.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=UJ34nmQAAAAJ
+ORCID: https://orcid.org/0000-0003-2160-8608
+DBLP: homepages/181/2834-57
+Email: wangzheng@suwon.ac.kr
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 Submitted a paper to IEEE TMM. 
+- *2026.01*: &nbsp;🎉🎉 Submitted a paper to ICML 2026. 
 
 # 📝 Publications 
 
