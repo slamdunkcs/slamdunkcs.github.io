@@ -104,7 +104,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 <img src="/images/zhengwang/workshop-3.jpg" width="30%">
 
 
-## 2026级硕士研究生招生
+## 招生提示：
 
 欢迎报考本课题组 **2026级硕士研究生**。如果你对**人工智能**方向有浓厚兴趣，愿意接受系统科研训练，并希望在读研期间取得高质量学术成果，欢迎加入我们。
 
