@@ -103,8 +103,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 <img src="/images/zhengwang/workshop-2.jpg" width="30%">
 <img src="/images/zhengwang/workshop-3.jpg" width="30%">
 
-
-## 招生提示：
+# 招生提示：
 
 欢迎报考本课题组 **2026级硕士研究生**。如果你对**人工智能**方向有浓厚兴趣，愿意接受系统科研训练，并希望在读研期间取得高质量学术成果，欢迎加入我们。
 
@@ -115,7 +114,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 
 课题组主要围绕**人工智能**相关方向开展研究，涵盖智能计算、机器学习、模糊系统、数据分析与智能建模等内容。我们注重学生科研能力与学术视野的同步提升，强调“扎实训练、稳定产出、长期发展”。
 
-### 你将获得什么
+## 你将获得什么
 
 本课题组坚持高质量培养，注重为学生提供真实、稳定且具有成长性的科研环境。
 
@@ -126,7 +125,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 * **优质学术合作平台**：课题组与 **IEEE Fellow、长江学者、国家杰青** 等高水平学者保持合作，可为学生提供更广阔的学术视野与合作机会。
 * **深造支持充分**：导师具备**中外联合培养博士**的培养基础，也可根据学生发展需要，推荐赴**国内外高校继续攻读博士学位**。
 
-### 科研条件与团队氛围
+## 科研条件与团队氛围
 
 课题组科研经费充足，能够为学生提供稳定、完善的科研支持。现有条件包括：
 
@@ -138,7 +137,7 @@ His research focuses on interpretable and robust intelligent modeling, including
 
 除了科研训练之外，课题组也非常重视团队氛围建设。组内学生关系融洽，学术交流充分，并会不定期组织聚餐和团建活动。在这里，你不仅能够接受严格规范的科研训练，也能感受到开放、互助、积极向上的团队环境。
 
-### 我们期待这样的你
+## 我们期待这样的你
 
 我们欢迎基础扎实、踏实认真、对人工智能方向有兴趣，并希望在硕士阶段真正做出成果的同学加入。无论你希望继续深造，还是希望通过高水平科研训练提升未来竞争力，本课题组都将为你提供坚实的平台与支持。
 
