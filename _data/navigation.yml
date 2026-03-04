@@ -1,17 +1,21 @@
 main:
-  - title: "Homepage"
-    url: /
   - title: "About"
-    url: /about/
+    url: /#about-me
+
   - title: "Publications"
-    url: /publications/
+    url: /#selected-publications
+
   - title: "Projects"
-    url: /projects/
+    url: /#research-projects
+
   - title: "Teaching"
-    url: /teaching/
+    url: /#teaching
+
   - title: "Students"
-    url: /students/
+    url: /#student-supervision
+
   - title: "Gallery"
-    url: /gallery/
+    url: /#gallery
+    
   - title: "招生提示"
     url: /admissions/
