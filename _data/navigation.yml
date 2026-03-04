@@ -16,6 +16,6 @@ main:
 
   - title: "Gallery"
     url: /#gallery
-    
+
   - title: "招生提示"
-    url: /admissions/
+    url: /#admissions
