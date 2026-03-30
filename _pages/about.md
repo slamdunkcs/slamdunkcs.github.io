@@ -43,11 +43,12 @@ His research focuses on interpretable and robust intelligent modeling, including
 \* Corresponding author
 
 # Research Projects
-1. **Research on the Algorithm Design of Type-2 Fuzzy Neural Networks and Their Applications in Low-Carbon Environmental Protection**, Natural Science Foundation of Shandong Province (ZR2025MS18), 2025.10–2028.09.
-2. **Research on a Fuzzy Self-Organizing Dynamically Generated Network Architecture**, Natural Science Foundation on Computational Intelligence of Shandong Province (SDCI202406), 2024.06–2027.05.
-3. **Research on Carbon Emission Control in Inter-Company Collaboration Based on Fuzzy Graph Neural Networks**, National Research Foundation of Korea (NRF-2023K2A9A2A06060385), 2023.08–2025.07.
-4. **Development of an Enhanced Ensemble Multi-Layer Neuro-Fuzzy Architecture via Two New Design Methodologies (Top-Down and Bottom-Up Approaches) for Low-Dimensional Preprocessing of Big Data Information**, National Research Foundation of Korea (NRF-2022R1I1A1A01071671), 2022.06–2025.05.
-5. **Design of a Deep Fuzzy Neural Network and Multi-Model Structure with Enhanced Dimensionality Reduction**, National Research Foundation of Korea (NRF-2021R1A2C1095739), 2021.09–2023.02.
+1. **Learnable Linear Canonical Transforms and Knowledge-Distillation-Driven Rule-Based Networks for High-Dimensional Data**, National Research Foundation of Korea (NRF-2026-25474453), 2026.03–2029.02.
+2. **Research on the Algorithm Design of Type-2 Fuzzy Neural Networks and Their Applications in Low-Carbon Environmental Protection**, Natural Science Foundation of Shandong Province (ZR2025MS18), 2025.10–2028.09.
+3. **Research on a Fuzzy Self-Organizing Dynamically Generated Network Architecture**, Natural Science Foundation on Computational Intelligence of Shandong Province (SDCI202406), 2024.06–2027.05.
+4. **Research on Carbon Emission Control in Inter-Company Collaboration Based on Fuzzy Graph Neural Networks**, National Research Foundation of Korea (NRF-2023K2A9A2A06060385), 2023.08–2025.07.
+5. **Development of an Enhanced Ensemble Multi-Layer Neuro-Fuzzy Architecture via Two New Design Methodologies (Top-Down and Bottom-Up Approaches) for Low-Dimensional Preprocessing of Big Data Information**, National Research Foundation of Korea (NRF-2022R1I1A1A01071671), 2022.06–2025.05.
+
 
 # Teaching
 ## Undergraduate Courses
