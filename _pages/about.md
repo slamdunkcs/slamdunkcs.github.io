@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in Electrical Engineering from Suwon University in 2012, 2016, and 2021, respectively. He was a Postdoctoral Fellow (2021–2023) in the Department of Computer Science at Suwon University. He is now the Executive Deputy Director of the Shandong Province International Joint Laboratory of Sino-Korean Big Data and Artificial Intelligence at Linyi University, and a Research Professor with the School of ICT at Suwon University. From Mar. 2025 to Feb. 2026, he was a Visiting Scholar with the School of Automation Science and Electrical Engineering at Beihang University.
+Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in Electrical Engineering from Suwon University in 2012, 2016, and 2021, respectively. He was a Postdoctoral Fellow with the Department of Computer Science, Suwon University, from 2021 to 2023. He is currently the Executive Deputy Director of the Shandong Province International Joint Laboratory of Sino-Korean Big Data and Artificial Intelligence, Linyi University, and a Research Professor with the School of ICT, Suwon University. From March 2025 to February 2026, he was a Visiting Scholar with the School of Automation Science and Electrical Engineering, Beihang University.
 
-His research focuses on interpretable and robust intelligent modeling, including fuzzy systems, evolutionary computation, and neural networks, with applications in industrial analytics and low-carbon/environmental scenarios. He has authored 20+ peer-reviewed publications in high-impact IEEE journals and regularly serves as a reviewer for IEEE journals and major machine-learning venues such as ICML.
+His research focuses on explainable artificial intelligence, high-dimensional big data modeling, and artificial intelligence applications, with particular emphasis on interpretable intelligent systems and data-driven modeling methods. He has published more than 20 peer-reviewed papers in IEEE Transactions-series journals and top-tier artificial intelligence conferences. He also regularly serves as a reviewer for IEEE Transactions-series journals and major artificial intelligence conferences.
 
 # Contact
 - Email: [wangzheng@suwon.ac.kr](mailto:wangzheng@suwon.ac.kr)
