@@ -38,7 +38,7 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
 2. Y. Zhu, H. Duan, **Z. Wang**\*, E.-H. Kim, Z. Fu and W. Pedrycz, "BPFNN: Bayesian Probabilistic Fuzzy Neural Networks for Uncertainty-Aware Clustering and Probabilistic Fuzzy Reasoning," *IEEE Transactions on Cybernetics*, 2026.
 3. Y. Zhu, H. Duan, **Z. Wang**\*, E.-H. Kim, Z. Fu and W. Pedrycz, "Robust Classification via Interval Type-2 Fuzzy C-Means and Gradient Boosting," *IEEE Transactions on Fuzzy Systems*, 2025.
 4. **Z. Wang**, E.-H. Kim\*, S.-K. Oh, W. Pedrycz, Z. Fu and J. H. Yoon, "Reinforced Fuzzy-Rule-Based Neural Networks Realized Through Streamlined Feature Selection Strategy and Fuzzy Clustering With Distance Variation," *IEEE Transactions on Fuzzy Systems*, 2024.
-5. E.-H. Kim, **Z. Wang**\*, H. Zong, Z. Jiang, Z. Fu and W. Pedrycz, "Design of Tobacco Leaves Classifier Through Fuzzy Clustering-Based Neural Networks With Multiple Histogram Analyses of Images," *IEEE Transactions on Industrial Informatics*, 2023.
+5. E.-H. Kim, **Z. Wang**\*, H. Zong, Z. Jiang, Z. Fu and W. Pedrycz, "Design of Tobacco Leaves Classifier Through Fuzzy Clustering-Based Neural Networks With Multiple Histogram Analyses of Images," *IEEE Transactions on Industrial Informatics*, 2024.
    
 \* Corresponding author
 
