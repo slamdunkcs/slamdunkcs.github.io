@@ -80,10 +80,15 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
   - Ruifeng Zhang
 - **2024 intake**
   - Peng Zhou
+     - **P. Zhou**, **Z. Wang**\*, E.-H. Kim, Z. Fu, Q. Wu and W. Pedrycz, "Differentiable Softmin-driven Self-Organizing Fuzzy ARTMAP via Unified End-to-End Learning," *IEEE Transactions on Fuzzy Systems*, 2026.
   - Baiyi Guo
 - **2023 intake**
   - Yizhen Wang
+     - **Y. Wang**, H. Duan, **Z. Wang**\*, E.-H. Kim, Z. Fu and W. Pedrycz, "FROST: Fuzzy Rule Optimization and Semantic Transfer for Robust Knowledge-Driven Neural Modeling," *IEEE Transactions on Knowledge and Data Engineering*, 2026.
+     - **Y. Wang**, **Z. Wang**\*, E.-H. Kim and Z. Fu, "FIPN: Forward Self-Organizing Interpretable Polynomial Networks for Time Series Forecasting," *Proceedings of the Forty-third International Conference on Machine Learning (ICML)*, 2026.
   - Yunlong Zhu (Graduated early in 2025; Currently pursuing a Ph.D. at Suwon University)
+     - **Y. Zhu**, H. Duan, **Z. Wang**\*, E.-H. Kim, Z. Fu and W. Pedrycz, "BPFNN: Bayesian Probabilistic Fuzzy Neural Networks for Uncertainty-Aware Clustering and Probabilistic Fuzzy Reasoning," *IEEE Transactions on Cybernetics*, 2026.
+     - **Y. Zhu**, H. Duan, **Z. Wang**\*, E.-H. Kim, Z. Fu and W. Pedrycz, "Robust Classification via Interval Type-2 Fuzzy C-Means and Gradient Boosting," *IEEE Transactions on Fuzzy Systems*, 2025.
   - Xiaonan Wu (Graduated early in 2025; Currently at Shandong Investment Co., Ltd.)
 
 ## Ph.D. Students
@@ -91,6 +96,7 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
   - Yunlong Zhu
 - **2024 intake**
   - Da Yuan
+    - **D. Yuan**, **Z. Wang**\*, H. Huang, Z. Fu, Q. Wu, S. Zhang and W. Pedrycz, "Spatially Directional Dual-Attention Graph Networks for Fine-Grained PM2.5 Mapping," *Applied Soft Computing*, 2026.
 
 # Gallery
 
