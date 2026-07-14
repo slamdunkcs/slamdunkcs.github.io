@@ -106,6 +106,7 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
 <img src="/images/zhengwang/seminar-3.jpg" width="30%">
 
 ## Students at Workshops & Conferences
+<img src="/images/zhengwang/icml2026.jpg" width="30%">
 <img src="/images/zhengwang/workshop-1.jpg" width="30%">
 <img src="/images/zhengwang/workshop-2.jpg" width="30%">
 <img src="/images/zhengwang/workshop-3.jpg" width="30%">
