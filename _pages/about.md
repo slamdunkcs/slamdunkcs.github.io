@@ -22,6 +22,21 @@ Zheng Wang (IEEE Senior Member) received the B.Sc., M.Sc., and Ph.D. degrees in 
 
 His research focuses on explainable artificial intelligence, high-dimensional big data modeling, and artificial intelligence applications, with particular emphasis on interpretable intelligent systems and data-driven modeling methods. He has published more than 20 peer-reviewed papers in IEEE Transactions-series journals and top-tier artificial intelligence conferences. He also regularly serves as a reviewer for IEEE Transactions-series journals and major artificial intelligence conferences.
 
+
+# 📢 News
+
+## 2026
+
+- **NeurIPS 2026 :** Our paper “MANGO: Multi-Angle Neural Gated Operators for Chirp-Perturbed PDEs” has been accepted.
+
+- **IEEE Transactions on Cybernetics:** Our paper “Fuzzy Neural Module Network: Leveraging Univariate Models and Layer-Specific and Network-Wide Dual Learning” has been accepted for publication.
+
+- **ICML 2026 :** “FIPN: Forward Self-Organizing Interpretable Polynomial Networks for Time Series Forecasting.”
+
+- **IEEE Transactions on Fuzzy Systems:** “Differentiable Softmin-driven Self-Organizing Fuzzy ARTMAP via Unified End-to-End Learning.” has been accepted for publication.
+
+- **Applied Soft Computing:** “Spatially directional dual-attention graph networks for fine-grained PM2.5 mapping.” has been accepted for publication.
+
 # Contact
 - Email: [wangzheng@suwon.ac.kr](mailto:wangzheng@suwon.ac.kr)
 - Google Scholar: [Profile](https://scholar.google.com/citations?hl=zh-CN&user=UJ34nmQAAAAJ)
@@ -33,10 +48,11 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
 - Computer Vision
 - Computational Intelligence
 
+
 # Selected Publications
 1. Y. Wang, **Z. Wang**\*, E.-H. Kim and Z. Fu, “FIPN: Forward Self-Organizing Interpretable Polynomial Networks for Time Series Forecasting,” Proceedings of the Forty-third International Conference on Machine Learning (ICML), 2026.
 2. Y. Zhu, H. Duan, **Z. Wang**\*, E.-H. Kim, Z. Fu and W. Pedrycz, "BPFNN: Bayesian Probabilistic Fuzzy Neural Networks for Uncertainty-Aware Clustering and Probabilistic Fuzzy Reasoning," *IEEE Transactions on Cybernetics*, 2026.
-3. Y. Zhu, H. Duan, **Z. Wang**\*, E.-H. Kim, Z. Fu and W. Pedrycz, "Robust Classification via Interval Type-2 Fuzzy C-Means and Gradient Boosting," *IEEE Transactions on Fuzzy Systems*, 2025.
+3. E.-H. Kim, H. Huang, **Z. Wang**\*, H. Duan, Z. Fu and W. Pedrycz, “Fuzzy Neural Module Network: Leveraging Univariate Models and Layer-Specific and Network-Wide Dual Learning,” *IEEE Transactions on Cybernetics*, 2026..
 4. **Z. Wang**, E.-H. Kim\*, S.-K. Oh, W. Pedrycz, Z. Fu and J. H. Yoon, "Reinforced Fuzzy-Rule-Based Neural Networks Realized Through Streamlined Feature Selection Strategy and Fuzzy Clustering With Distance Variation," *IEEE Transactions on Fuzzy Systems*, 2024.
 5. E.-H. Kim, **Z. Wang**\*, H. Zong, Z. Jiang, Z. Fu and W. Pedrycz, "Design of Tobacco Leaves Classifier Through Fuzzy Clustering-Based Neural Networks With Multiple Histogram Analyses of Images," *IEEE Transactions on Industrial Informatics*, 2024.
    
@@ -94,6 +110,8 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
 ## Ph.D. Students
 - **2026 intake**
   - Yunlong Zhu
+    - **Y. Zhu**, Z. Fu, Z. Wang and E.-H. Kim, “MANGO: Multi-Angle Neural Gated Operators for Chirp-Perturbed PDEs,” *Advances in Neural Information Processing Systems* (NeurIPS), 2026
+  - Yizhen Wang
 - **2024 intake**
   - Da Yuan
     - **D. Yuan**, Z. Wang\*, H. Huang, Z. Fu, Q. Wu, S. Zhang and W. Pedrycz, "Spatially Directional Dual-Attention Graph Networks for Fine-Grained PM2.5 Mapping," *Applied Soft Computing*, 2026.
