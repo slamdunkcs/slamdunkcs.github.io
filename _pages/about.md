@@ -91,9 +91,14 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
 
 ## Master's Students
 - **2025 intake**
+  - Tai Zhou
+  - Jinghao Zhang
+  - Zengwei Li
+  - Yu Qian
+  - Yujie Zhao
+- **2025 intake**
   - Xinyi Wang
   - Weimin Hu
-  - Ruifeng Zhang
 - **2024 intake**
   - Peng Zhou
      - **P. Zhou**, Z. Wang\*, E.-H. Kim, Z. Fu, Q. Wu and W. Pedrycz, "Differentiable Softmin-driven Self-Organizing Fuzzy ARTMAP via Unified End-to-End Learning," *IEEE Transactions on Fuzzy Systems*, 2026.
@@ -131,15 +136,7 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
 
 # 招生提示
 
-课题组长期欢迎对人工智能、机器学习、模糊系统、数据建模等方向感兴趣的同学联系。
-
-依托临沂大学数学与统计学院，本课题组可招收 **学术型学位：数学（070100）** 和 **专业型学位：应用统计（025200）** 硕士研究生，研究方向主要围绕人工智能及其相关应用展开，包括智能计算、机器学习、模糊系统、数据分析、时间序列预测和智能建模等。
-
-同时，依托韩国水原大学ICT学院计算机科学专业，课题组也招收有意赴韩国继续深造的研究生，包括 **硕士研究生（2年）**、**博士研究生（3年）** 和 **硕博连读研究生（4年）**。对于有出国深造或中外联合培养意向的学生，课题组可根据个人情况提供研究方向规划、申请建议和推荐支持。
-
-课题组每周开展一次组会，导师会在文献阅读、选题设计、实验分析、论文写作与投稿修改等方面进行持续指导。目前课题组具备专业显卡服务器、独立工位等科研条件，并可根据科研需要为学生配置电脑，支持学生参加学术会议。课题组氛围融洽，不定期组织聚餐和团建。鼓励学生面向 CCF-A 类会议和 IEEE Transactions 系列期刊等高水平学术平台开展研究。
-
-课题组与 **IEEE Fellow、长江学者、国家杰青** 等高水平学者保持合作交流，可为学生提供更广阔的学术视野与合作机会。在科研成果署名方面，导师尊重学生的实际贡献，支持学生作为第一作者发表高水平研究成果。
+AI 改变了科研方式，也让我重新思考带学生的意义。目前决定暂停招生，先把自己的研究和培养思路想清楚。以后遇到真正合适、愿意主动学习和认真做研究的学生，再考虑继续招。
 
 欢迎基础扎实、做事认真、愿意长期投入科研训练的同学提前联系。
 
