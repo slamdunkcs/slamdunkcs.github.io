@@ -138,5 +138,5 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
 
 AI 改变了科研方式，也让我重新思考带学生的意义。目前决定暂停招生，先把自己的研究和培养思路想清楚。以后遇到真正合适、愿意主动学习和认真做研究的学生，再考虑继续招。
 
-欢迎基础扎实、做事认真、愿意长期投入科研训练的同学提前联系。
+
 
