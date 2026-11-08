@@ -27,6 +27,8 @@ His research focuses on explainable artificial intelligence, high-dimensional bi
 
 ## 2026
 
+- **IEEE Transactions on Knowledge and Data Engineering:** Our paper “FROST: Fuzzy Rule Optimization and Semantic Transfer for Robust Knowledge-Driven Neural Modeling” has been accepted for publication.
+
 - **NeurIPS 2026 :** Our paper “MANGO: Multi-Angle Neural Gated Operators for Chirp-Perturbed PDEs” has been accepted.
 
 - **IEEE Transactions on Cybernetics:** Our paper “Fuzzy Neural Module Network: Leveraging Univariate Models and Layer-Specific and Network-Wide Dual Learning” has been accepted for publication.
